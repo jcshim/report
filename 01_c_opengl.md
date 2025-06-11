@@ -1,3 +1,6 @@
+# OpenGL로 무지게 사각형 만드는 코드
+## 윈도우마법사로 하세요.
+
 ```
 #pragma comment(lib, "opengl32.lib")
 
